@@ -25,7 +25,7 @@ Developed an interactive Excel dashboard to analyze 12 months of retail sales da
 - Interactive Slicers
 
 ## Dashboard Preview
-(Upload dashboard_screenshot.png and then replace this line with the image.)
+![Dashboard](dashboard_screenshot.png)
 
 ## Skills Demonstrated
 - Data Cleaning
