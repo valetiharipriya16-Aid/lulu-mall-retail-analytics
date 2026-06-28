@@ -1,0 +1,95 @@
+================================================================================
+         LULU MALL INDIA — RETAIL ANALYTICS PROJECT
+         Problem Statement & Project Brief
+================================================================================
+
+BUSINESS BACKGROUND
+--------------------
+Lulu Mall is one of India's fastest-growing retail chains, operating large-format
+hypermarkets and shopping destinations across major cities including Bangalore,
+Hyderabad, Chennai, Kochi, Mumbai, Delhi, Lucknow, and Coimbatore.
+
+With rapid expansion across regions, the management team at Lulu Mall requires a
+consolidated view of business performance to make data-driven decisions. The
+leadership team has engaged a data analytics team (you) to analyze 12 months of
+transactional sales data and deliver actionable insights through an Excel Dashboard.
+
+--------------------------------------------------------------------------------
+BUSINESS PROBLEM
+-----------------
+Lulu Mall management currently lacks a centralized analytics view and wants to
+understand the following key areas:
+
+  1. REVENUE PERFORMANCE
+     - What is the total revenue generated across all stores?
+     - Which months recorded the highest and lowest revenue?
+     - Is overall revenue trending upward or downward over time?
+
+  2. STORE PERFORMANCE
+     - Which stores are the top performers by revenue?
+     - Which stores are underperforming and may need strategic attention?
+     - How does store performance vary across cities?
+
+  3. CATEGORY PERFORMANCE
+     - Which product categories generate the most revenue?
+     - Which categories have the highest number of transactions?
+     - Are there any categories that are consistently underperforming?
+
+  4. CUSTOMER BEHAVIOR
+     - What is the gender split of customers across stores?
+     - What are the most preferred payment modes?
+     - What is the average order value per customer segment?
+
+  5. REGIONAL TRENDS
+     - How does revenue compare across different states and regions?
+     - Which regions (North, South, East, West) contribute most to total revenue?
+     - Are there regional preferences in product categories?
+
+--------------------------------------------------------------------------------
+STUDENT OBJECTIVE
+------------------
+As an intern at Lulu Mall's Analytics Division, your task is to:
+
+  - Explore and understand the sales dataset
+  - Clean and validate the data
+  - Apply Excel formulas to derive key business metrics
+  - Use VLOOKUP / INDEX-MATCH for data enrichment
+  - Build Pivot Tables and Pivot Charts to summarize data
+  - Create a professional interactive Dashboard with KPI Cards and Slicers
+
+The final deliverable must resemble a real business dashboard that a manager
+can use to make quick, informed decisions.
+
+--------------------------------------------------------------------------------
+EXPECTED DELIVERABLES
+----------------------
+Students must submit the following inside a single Excel Workbook (.xlsx):
+
+  Sheet 1:  Raw_Data          — Original dataset (do not modify)
+  Sheet 2:  Working_Data      — Cleaned/enriched data with added formula columns
+  Sheet 3:  Formula_Analysis  — Answers to formula-based business questions
+  Sheet 4:  Lookup_Analysis   — VLOOKUP and INDEX+MATCH based lookups
+  Sheet 5:  Pivot_Analysis    — Pivot Tables (at least 5)
+  Sheet 6:  Dashboard         — Final interactive dashboard with KPIs and Charts
+
+--------------------------------------------------------------------------------
+EVALUATION CRITERIA
+--------------------
+  Data Cleaning & Preparation       — 15 marks
+  Formula Usage (SUM, IF, etc.)     — 20 marks
+  Lookup Functions                  — 15 marks
+  Pivot Tables & Charts             — 20 marks
+  Dashboard Design & KPIs           — 25 marks
+  Presentation & Neatness           —  5 marks
+  TOTAL                             — 100 marks
+
+--------------------------------------------------------------------------------
+SUBMISSION FORMAT
+-----------------
+  File Name  : [YourName]_LuluMall_Analytics.xlsx
+  Deadline   : [DEADLINE TO BE FILLED BY INSTRUCTOR]
+  Submit to  : [SUBMISSION LINK / EMAIL TO BE FILLED BY INSTRUCTOR]
+
+================================================================================
+          Good luck! Think like a data analyst, not just a student.
+================================================================================
